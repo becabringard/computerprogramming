@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Beca's Computer Programming
 
 You can use the [editor on GitHub](https://github.com/becabringard/computerprogramming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
